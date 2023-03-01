@@ -16,3 +16,4 @@ Type = temp.groupby(['學校名稱'])['外國學生小計'].sum().reset_index()
 Type
 
 Type['Year'] = 2015
+Type
