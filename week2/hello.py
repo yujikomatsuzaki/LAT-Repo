@@ -1,3 +1,5 @@
+# RUN : shift + enter
+
 import pandas as pd
 
 df = pd.read_csv('foreign_students_by_department.csv')
